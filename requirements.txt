@@ -1,6 +1,8 @@
-pandas
-matplotlib
-keras
-scikit-learn
 tensorflow
-pickle
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
