@@ -1,0 +1,6 @@
+pandas
+matplotlib
+keras
+scikit-learn
+tensorflow
+pickle
